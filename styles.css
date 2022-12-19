@@ -488,7 +488,7 @@ margin-right: 40px;
   position: relative;
   overflow: hidden;
 }
-.overlay-text {
+.overlay {
   position: absolute;
   /* top: 100%;
   left: 0; */
@@ -517,7 +517,7 @@ margin-right: 40px;
   flex-basis: 360px;
 } */
 
-.sample-link:hover .overlay-text {
+.sample-link:hover .overlay {
   transform: translate(0%, -100%);
 }
 .sample-link {
